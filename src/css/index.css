@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Overpass', sans-serif;
+}
+
+.max-width {
+  max-width: 1420px;
+  margin: 0 auto;
+}
+
+.trending-max-width {
+  max-width: 1200px;
+  margin: 0 auto;
+}
